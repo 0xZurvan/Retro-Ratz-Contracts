@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Retro Ratz contracts
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+NFT project with a simple and fun dynamic game. Evolving/leveling up pixelated rats art into a full retro rat by correctly answering the question at each level. At the end you can burn your rat to receive Aztral tokens.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+Note: This repository is a copy of the private Retro Ratz project contracts
 ```
